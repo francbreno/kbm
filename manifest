@@ -1,0 +1,9 @@
+#appname:myFirstApp
+#appid:com.appcelerator.myFirstApp
+#type:mobile
+#guid:3f1fb764-2d4e-4289-9612-3cfb4a8f250d
+#version:1.0
+#publisher:breno
+#url:http://myfirstapp.appcelerator
+#image:appicon.png
+#desc:Aplicação de teste
